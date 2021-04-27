@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+.crypto-list{
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.container{
+    text-align: center;
+
+}
+.center{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: darkslategrey;
+}
